@@ -82,10 +82,10 @@ Program dibuat tanpa menggunakan library kriptografi eksternal sehingga seluruh 
 ## Cara Menjalankan Program
 
 1. Clone repository ini
-git clone https://github.com/Bilanez7/NAMA-REPOSITORY.git
+git clone https://github.com/Bilanez7/RSA-Encryption-demo.git
 
 3. Masuk ke folder project
-cd NAMA-REPOSITORY
+cd RSA-Encryption-demo
 
 4. Jalankan program
 python rsa_encryption.py
