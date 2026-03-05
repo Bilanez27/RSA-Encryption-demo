@@ -92,24 +92,37 @@ python rsa_encryption.py
 
 Program akan menampilkan proses pembangkitan kunci, enkripsi, dan dekripsi.
 
+OUTPUT
+
 ===== PEMBANGKITAN KUNCI =====
+
 p = 137
+
 q = 191
+
 n = 26167
+
 phi(n) = 25840
 
 Public Key  : (3, 26167)
 Private Key : (17227, 26167)
 
 ===== PROSES ENKRIPSI =====
+
 Plaintext  : 20
+
 Ciphertext : 8000
 
+
 ===== PROSES DEKRIPSI =====
+
 Hasil Dekripsi : 20
+
 
 Artinya:
 
 plaintext → pesan asli
+
 ciphertext → pesan terenkripsi
+
 dekripsi → kembali ke pesan asli
