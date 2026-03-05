@@ -1,4 +1,4 @@
-# Implementasi Algoritma RSA (Rivest, Shamir, Adleman)
+# Implementasi Algoritma RSA (Rivest, Shamir, Adleman).
 
 ## 1. Pengantar Singkat
 
